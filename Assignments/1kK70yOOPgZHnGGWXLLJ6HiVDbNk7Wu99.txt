@@ -1,0 +1,102 @@
+
+
+Lab sheet - 2
+Arithmetic Operators
+Note: Find the math formulas below.
+1.Write a program to add two numbers.
+2.Write a program to subtract two numbers.
+3.Write a program to multiply two numbers.
+4.Write a program to divide two numbers.
+5.Write a program to find the modulus of two numbers.
+6.Write a program to swap two numbers without using a temporary
+variable.
+7.Write a program to calculate the area of a rectangle.
+8.Write a program to calculate the area of a circle.
+9.Write a program to calculate the circumference of a circle.
+10.Write a program to calculate the hypotenuse of a right triangle.
+11.Write a program to calculate the volume of a sphere.
+12.Write a program to calculate the surface area of a sphere.
+13.Write a program to calculate the factorial of a number.
+14.Write a program to calculate the sum of the first n natural
+numbers.
+15.Write a program to calculate the sum of an arithmetic series.
+16.Write a program to calculate the sum of a geometric series.
+17.Write a program to calculate the sum of the squares of the first n
+natural numbers.
+18.Write a program to calculate the sum of the cubes of the first n
+natural numbers.
+19.Write a program to calculate the greatest common divisor of two
+numbers.
+20.Write a program to calculate the least common multiple of two
+numbers.
+21.Write a program to find the roots of a quadratic equation.
+22.Write a program to calculate the sum of two matrices.
+23.Write a program to multiply two matrices.
+
+24.Write a program to find the inverse of a matrix.
+25.Write a program to calculate the determinant of a matrix.
+26.Write a program to calculate the binomial coefficient.
+27.Write a program to calculate the average of an array of numbers.
+28.Write a program to find the maximum and minimum values in an
+array of numbers.
+29.Write a program to sort an array of numbers in ascending order.
+30.Write a program to calculate the Fibonacci sequence.
+Extra
+Note: WAP - Write a program
+1.WAP to input two numbers and find the sum.
+2.WAP to input two numbers and find multiplication.
+3.WAP to input numbers and calculate their square and cube.
+4.WAP to input the length and breadth of a rectangle and calculate its
+area. Area=Length*Breadth.
+5.WAP to input radius and calculate the area of circle and
+circumference of a circle. Area of circle = 3.14*r*r, Circumference of
+circle = 2*3.14*r.
+6.WAP to input the radius and height of a cylinder and calculate the
+volume of a cylinder. Volume=3.14*r*r*h.
+7.WAP to input principal, rate, and time and calculate Simple Interest.
+Simple Interest=Principal*Rate*Time/100.
+8.WAP to Input 5 subject marks of a student and find total marks and
+percentage obtained by the student.
+
+9.WAP to convert temperature from Fahrenheit to Celsius.
+C=(F-32)*5/9.
+10.WAP to convert temperature from Celsius to Fahrenheit.
+F=C*9/5+32.
+11.WAP to Input two numbers and swap them.
+12.WAP to Input two numbers and swap them without using 3rd
+variable.
+13.WAP to Input distance (in km) and convert in meters, centimeters,
+and inches.
+14.WAP to Input minutes and convert them into hours and minutes.
+15.WAP to input the total number of days and convert it into years,
+months, weeks, and days
+Some math formulas that could be used in these problems include:
+●Area of a rectangle:
+A = l * w
+●Area of a circle:
+A = π * r^2
+●Circumference of a circle:
+C = 2 * π * r
+●Pythagorean theorem:
+a^2 + b^2 = c^2
+●Volume of a sphere:
+V = (4/3) * π * r^3
+●Surface area of a sphere:
+A = 4 * π * r^2
+●Factorial:
+n! = n * (n-1) * (n-2) * ... * 2 * 1
+●Sum of an arithmetic series:
+S = (n/2) * (a1 + an)
+●Sum of a geometric series:
+S = a1 * ((1 - r^n) / (1- r))
+●Sum of the squares of the first n natural numbers:
+S = (n * (n+1) * (2n+1)) / 6
+●Sum of the cubes of the first n natural numbers:
+S= (n * (n+1) / 2)^2
+●Quadratic formula:
+x = (-b ± sqrt(b^2 - 4ac)) / 2a
+●Binomial coefficient:
+C(n, k) = n! / (k! * (n-k)!)
+●Fibonacci sequence:
+F(n) = F(n-1) + F(n-2)
+
